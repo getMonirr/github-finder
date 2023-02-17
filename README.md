@@ -3,3 +3,6 @@ it's a simple GitHub username finder app. that is made with vanilla javascript. 
 technology used:
 1. javaScript
 1. Browser Fetch API (for fetching data) 
+
+# app link 
+https://getmonirr.github.io/github-finder/
